@@ -1,6 +1,6 @@
 # Aw Jeez
 
-A simple Rick and Morty app to practice using riverpod.
+A simple Rick and Morty app to practice using Bloc.
 Made use of the Rick and Morty API(https://rickandmortyapi.com/).
 </br>
 <img height='600px' src='ss/1.png'/>
