@@ -38,4 +38,8 @@ class Navigate {
       ),
     );
   }
+
+  static pushPageReplacementNamed(BuildContext context, String name) {
+    Navigator.pushReplacementNamed(context, name);
+  }
 }

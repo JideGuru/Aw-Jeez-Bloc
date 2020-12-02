@@ -19,7 +19,7 @@ class _SplashState extends State<Splash> {
   }
 
   changeScreen() async {
-    Navigate.pushPageReplacement(context, Home());
+    Navigate.pushPageReplacementNamed(context, '/home');
   }
 
   @override
